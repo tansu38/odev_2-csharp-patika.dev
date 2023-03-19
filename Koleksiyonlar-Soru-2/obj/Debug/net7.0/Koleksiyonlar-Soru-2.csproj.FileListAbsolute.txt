@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\bin\Debug\net7.0\Koleksiyonlar-Soru-2.exe
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\bin\Debug\net7.0\Koleksiyonlar-Soru-2.deps.json
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\bin\Debug\net7.0\Koleksiyonlar-Soru-2.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\bin\Debug\net7.0\Koleksiyonlar-Soru-2.dll
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\bin\Debug\net7.0\Koleksiyonlar-Soru-2.pdb
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\Koleksiyonlar-Soru-2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\Koleksiyonlar-Soru-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\Koleksiyonlar-Soru-2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\Koleksiyonlar-Soru-2.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\Koleksiyonlar-Soru-2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\Koleksiyonlar-Soru-2.dll
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\refint\Koleksiyonlar-Soru-2.dll
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\Koleksiyonlar-Soru-2.pdb
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\Koleksiyonlar-Soru-2.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\Ödev-2(kolleksiyonlarla_ilgili_algoritma_sorilari)\Koleksiyonlar-Soru-2\obj\Debug\net7.0\ref\Koleksiyonlar-Soru-2.dll
